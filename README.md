@@ -1,2 +1,2 @@
 # dacompunilasalle.github.io
-DACOMP Unilasalle Website
+WebSite do Diretório Acadêmico da Computação - Unilasalle Canoas

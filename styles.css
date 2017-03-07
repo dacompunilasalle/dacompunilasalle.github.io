@@ -1,0 +1,37 @@
+.background{
+  /*background: rgba(67, 105, 120, 0.35); */
+  background-color: rgba(67, 105, 120, 0.15);
+
+}
+
+#logo_dacomp{
+    vertical-align: middle;
+    width: 150px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+#logo_unilasalle{
+  vertical-align: middle;
+    width: 160px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+.home_icons{
+  text-align: center;
+      background-color: rgba(255, 255, 255, 0.21);
+      color: #0c3e51;
+      border-radius: 0px;
+      margin: 1px;
+}
+
+.home_icons:hover {
+  background-color: rgb(12, 62, 81);
+  color: #fbfbfb;
+  cursor: pointer;
+}
+.home_icons span{
+  font-size: 35px;
+}
